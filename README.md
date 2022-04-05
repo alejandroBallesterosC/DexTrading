@@ -9,3 +9,4 @@ To Do:
 1. Set up connections, accounts
 2. Optimal Account Management
 3. Trading criteria/fund flows between accounts
+4. Brainstorm Python-Javascript Interface
