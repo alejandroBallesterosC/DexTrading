@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@blockworks-foundation/mango-client": "^3.4.1",
+    "@project-serum/serum": "0.13.55",
+    "@raydium-io/raydium-sdk": "^1.0.1-beta.46",
+    "@solana/web3.js": "^1.37.1"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
